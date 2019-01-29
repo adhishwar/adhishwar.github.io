@@ -1,4 +1,8 @@
-.navele{
-	background-color: #2C1613;
-	color: #FFFFFF
+#navbar{
+	background-color: #03081e;
+}
+.navelements{
+	display: inline;
+/*	margin-top: 3px;
+	margin-bottom: 3px;*/
 }
